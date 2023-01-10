@@ -1,2 +1,2 @@
-# Open WMA RuleSet
+# Open WMA Ruleset
 Open Ruleset for WMA/HEMA.
