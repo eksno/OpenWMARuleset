@@ -2,6 +2,7 @@
 
 Rules that apply to all styles in WMA/HEMA.
 
+---
 
 ## Fouls
 

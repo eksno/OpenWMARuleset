@@ -2,12 +2,14 @@
 
 Defines rules that disallow takedowns
 
+---
 
 ## Conditions
 
 - Takedown
   - The act of bringing an opponent to a grounded position from a standing position
 
+---
 
 ## Fouls
 
