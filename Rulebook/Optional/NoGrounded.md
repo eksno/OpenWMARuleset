@@ -6,6 +6,8 @@ Defines rules that disallow grounded combat
 
 ## Conditions
 
+The following acts constitute scoring in a contest or exhibition of WMA/HEMA. The score is defined by the style taking place.
+
 - Grounded
   - To touch the ground with any body part above the knees excluding the hands
 
