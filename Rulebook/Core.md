@@ -10,7 +10,6 @@ The following acts constitute fouls in a contest or exhibition of WMA/HEMA and m
 
 - Removal of protective apparel during a bout
 - Groin attacks of any kind
-- Performing a headbutt
 - Stomping a grounded opponent
 - Small joint manipulation
 - Timidity (avoiding contact with an opponent, faking an injury)
